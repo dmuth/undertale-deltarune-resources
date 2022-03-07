@@ -11,7 +11,7 @@ Table of Contents:
 - [Groups](#groups)
 - [Comics](#comics)
 - [Videos](#videos)
-- [Contributions](#contributions)
+- [Contributions](#how-to-contribute)
 
 
 ## The Games
@@ -68,7 +68,7 @@ Anything in this section is highly recommended.
   - [Undertale - All Neutral Endings](https://youtu.be/5ESpZqFxTTE)
 
 
-## Contributions
+## How To Contribute
 
 If you'd like to add or correct a link, feel free to [open an issue](https://github.com/dmuth/undertale-deltarune-resources/issues), [submit a PR](https://github.com/dmuth/undertale-deltarune-resources/pulls), or [get in touch with me on Twitter](https://twitter.com/dmuth).
 
