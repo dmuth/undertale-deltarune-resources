@@ -11,7 +11,7 @@ Table of Contents:
 - [Groups](#groups)
 - [Comics](#comics)
 - [Videos](#videos)
-- [Contributions](#how-to-contribute)
+- [How To Contribute](#how-to-contribute)
 
 
 ## The Games
