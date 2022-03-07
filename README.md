@@ -20,9 +20,9 @@ Table of Contents:
 
 ## "Must See"
 
-Anything in this section is highly recommended.
+**Anything in this section is highly recommended.**
 
-- [The Choice - UNDERTALE All Bosses Animation](https://youtu.be/wkniQzsMZ-8) - **Makes sure subtitles are turned ON.**
+- [The Choice - UNDERTALE All Bosses Animation](https://youtu.be/wkniQzsMZ-8) - Make sure subtitles are turned ON.
 
 
 ## Music
