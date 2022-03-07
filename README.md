@@ -4,7 +4,17 @@
 
 A list of resources for Undertale and Deltarune.
 
-## The games!
+Table of Contents:
+- [The Games](#the-games)
+- ["Must See"](#must-see)
+- [Music](#music)
+- [Groups](#groups)
+- [Comics](#comics)
+- [Videos](#videos)
+- [Contributions](#contributions)
+
+
+## The Games
 - [Undertale](https://undertale.com/)
 - [Deltarune](https://deltarune.com/)
 
