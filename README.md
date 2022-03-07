@@ -66,6 +66,8 @@ Anything in this section is highly recommended.
   - [Ralsei commits tax fraud](https://youtu.be/j1s9-FVODNA)
   - [UNDERTALE MOD | Friday Night Funkin'](https://youtu.be/fShsVEkxVhY)
   - [Undertale - All Neutral Endings](https://youtu.be/5ESpZqFxTTE)
+  - [The Undertale Wrestling Roster - Trailer](https://youtu.be/ztTirGPgv6c)
+  - [The Undertale Wrestling Roster - Full](https://youtu.be/v7Bf0fel8S0)
 
 
 ## How To Contribute
