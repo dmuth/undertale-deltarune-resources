@@ -1,4 +1,4 @@
-# Undertale and Deltarune Resources
+# Undertale and Deltarune Resources 🌻
 
 <img src="./undertale-heart.png" align="right" width="100" />
 
