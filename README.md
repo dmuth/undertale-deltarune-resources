@@ -43,7 +43,8 @@ Anything in this section is highly recommended.
   - [Undertale Fan Club](https://www.facebook.com/groups/157258804628797/)
   - [♡UNDERTALE / DELTARUNE☠](https://www.facebook.com/groups/703307313103712/)
 - Discord
-  - [Undertale Discord Server](https://discord.com/invite/undertale)
+  - [Undertale Discord Server](https://discord.com/invite/undertale) - General Undertale server, with over 40K users!
+  - [Asriel Undertale Discord Server](https://discord.gg/Asriel) - For discussion of Asriel only
   - [Undertale Live Discord Server](https://discord.com/invite/2fC2JYAM77)
 
 
