@@ -46,6 +46,7 @@ Table of Contents:
   - [Undertale Discord Server](https://discord.com/invite/undertale) - General Undertale server, with over 40K users!
   - [Asriel Undertale Discord Server](https://discord.gg/Asriel) - For discussion of Asriel only
   - [Undertale Live Discord Server](https://discord.com/invite/2fC2JYAM77)
+  - [The Fluffy Castle](https://discord.gg/ralsei) - Ralsei-themed Discord Server
 
 
 ## Comics
