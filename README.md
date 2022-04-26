@@ -26,6 +26,7 @@ Table of Contents:
 
 
 ## Music
+- [Giza Kidd's List of Undertale Remixes](https://www.youtube.com/playlist?list=PLyFHKkLF86lZZ42w_6aokNDhkRhgSXxQ4) - Start here!
 - [Undertale full OST - all songs](https://youtu.be/ObqLxqu526A)
 - [Live at Grillby's](https://www.youtube.com/watch?v=9TwwiLAk4GM)
 - [Undertale 5th Anniversary Concert](https://www.youtube.com/watch?v=srZdDAJbHfc)
